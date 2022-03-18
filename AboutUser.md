@@ -10,7 +10,7 @@ cmd 또는 윈도우탐색기와 유사한 프로그램이라 생각하면 된�
 
 - 7개의 필드로 구성되어 있음 : 에 의해서 구분
 
-- ex) root:x:0:0:root:/root:/bin/bash
+- ex) root : x : 0 : 0 : root : /root : /bin/bash
 - 계정:패스워드:UID:GID:계정 COMMENT:사용자계정 디렉토리:사용자로그인 쉘
 
 1. 2번째 필드의 패스워드는 /etc/shadow 파일에 암호화되어 있음
